@@ -1,0 +1,5 @@
+output_dir: .
+project_name: WILTY Deep Learning
+repo_name: wilty-dl
+python_package: wilty_dl
+include_example: true
